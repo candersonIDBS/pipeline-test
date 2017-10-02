@@ -1,6 +1,6 @@
 import requests
 import time
 
-print "Starting a long wait..."
-time.sleep(120)
+print "Starting a short wait..."
+time.sleep(5)
 print "Successfull!"
