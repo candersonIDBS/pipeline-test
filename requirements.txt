@@ -1,1 +1,2 @@
-requests==2.18.4
+--extra-index-url https://pypi.idbs.co.uk/automationdev/simple/
+idbs_aws==2.41.68
