@@ -5,7 +5,7 @@ eworkbook_generate(
     region='eu-central-1',
     eworkbook_version='10221',
     domain='idbs-dev.com',
-    vpc_cidr='10.100.0.0/32',
+    vpc_cidr='10.100.0.0/16',
     keypair='canderson',
     idbs_ips=['194.168.169.49/32', '194.168.169.34/32', '194.168.169.33/32', '194.168.169.59/32',
               '194.168.169.32/32', '194.168.169.48/32'],
