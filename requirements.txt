@@ -1,2 +1,3 @@
---extra-index-url https://pypi.idbs.co.uk/automationdev/simple/
-idbs_aws==2.41.68
+--extra-index-url https://j95kyaz4ne.execute-api.eu-west-1.amazonaws.com/api
+--trusted-host idbs-sre-pypi.s3-website-eu-west-1.amazonaws.com
+idbs_aws==2.41.73
