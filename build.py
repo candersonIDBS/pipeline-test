@@ -1,7 +1,7 @@
 from idbs_aws.templates.hosted_eworkbook.generate_stacks import eworkbook_generate
 
 eworkbook_generate(
-    customer_name='pipelinetest',
+    customer_name='pipelinetest2',
     region='eu-west-1',
     eworkbook_version='10221',
     domain='idbs-dev.com',
