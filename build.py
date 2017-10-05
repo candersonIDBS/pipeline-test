@@ -2,7 +2,7 @@ from idbs_aws.templates.hosted_eworkbook.generate_stacks import eworkbook_genera
 
 eworkbook_generate(
     customer_name='pipelinetest',
-    region='eu-central-1',
+    region='eu-west-1',
     eworkbook_version='10221',
     domain='idbs-dev.com',
     vpc_cidr='10.100.0.0/16',
