@@ -1,0 +1,4 @@
+[filter "awsencrypt"]
+    clean = kms_git_filter clean "arn:aws:kms:eu-west-1:796568017366:key/410547ce-1bac-4777-9e9c-6171152ad7f9"
+    smudge = kms_git_filter smudge
+    required
